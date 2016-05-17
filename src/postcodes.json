@@ -1,0 +1,1496 @@
+[
+    {
+        "name": "Aruba",
+        "iso_3166_1_alpha_2": "AW",
+        "iso_3166_1_alpha_3": "ABW",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Afghanistan",
+        "iso_3166_1_alpha_2": "AF",
+        "iso_3166_1_alpha_3": "AFG",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Angola",
+        "iso_3166_1_alpha_2": "AO",
+        "iso_3166_1_alpha_3": "AGO",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Anguilla",
+        "iso_3166_1_alpha_2": "AI",
+        "iso_3166_1_alpha_3": "AIA",
+        "regex_pattern": "[Aa][Ii][-][2][6][4][0]"
+    },
+    {
+        "name": "Åland Islands",
+        "iso_3166_1_alpha_2": "AX",
+        "iso_3166_1_alpha_3": "ALA",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Albania",
+        "iso_3166_1_alpha_2": "AL",
+        "iso_3166_1_alpha_3": "ALB",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Andorra",
+        "iso_3166_1_alpha_2": "AD",
+        "iso_3166_1_alpha_3": "AND",
+        "regex_pattern": "[Aa][Dd]\\d{3}"
+    },
+    {
+        "name": "United Arab Emirates",
+        "iso_3166_1_alpha_2": "AE",
+        "iso_3166_1_alpha_3": "ARE",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Argentina",
+        "iso_3166_1_alpha_2": "AR",
+        "iso_3166_1_alpha_3": "ARG",
+        "regex_pattern": "\\d{4}|[A-Za-z]\\d{4}[a-zA-Z]{3}"
+    },
+    {
+        "name": "Armenia",
+        "iso_3166_1_alpha_2": "AM",
+        "iso_3166_1_alpha_3": "ARM",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "American Samoa",
+        "iso_3166_1_alpha_2": "AS",
+        "iso_3166_1_alpha_3": "ASM",
+        "regex_pattern": "\\d{5}(-{1}\\d{4,6})"
+    },
+    {
+        "name": "Antarctica",
+        "iso_3166_1_alpha_2": "AQ",
+        "iso_3166_1_alpha_3": "ATA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "French Southern Territories",
+        "iso_3166_1_alpha_2": "TF",
+        "iso_3166_1_alpha_3": "ATF",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "iso_3166_1_alpha_2": "AG",
+        "iso_3166_1_alpha_3": "ATG",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Australia",
+        "iso_3166_1_alpha_2": "AU",
+        "iso_3166_1_alpha_3": "AUS",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Austria",
+        "iso_3166_1_alpha_2": "AT",
+        "iso_3166_1_alpha_3": "AUT",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Azerbaijan",
+        "iso_3166_1_alpha_2": "AZ",
+        "iso_3166_1_alpha_3": "AZE",
+        "regex_pattern": "[Aa][Zz][ ]?\\d{4}"
+    },
+    {
+        "name": "Burundi",
+        "iso_3166_1_alpha_2": "BI",
+        "iso_3166_1_alpha_3": "BDI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Belgium",
+        "iso_3166_1_alpha_2": "BE",
+        "iso_3166_1_alpha_3": "BEL",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Benin",
+        "iso_3166_1_alpha_2": "BJ",
+        "iso_3166_1_alpha_3": "BEN",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "iso_3166_1_alpha_2": "BQ",
+        "iso_3166_1_alpha_3": "BES",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Burkina Faso",
+        "iso_3166_1_alpha_2": "BF",
+        "iso_3166_1_alpha_3": "BFA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Bangladesh",
+        "iso_3166_1_alpha_2": "BD",
+        "iso_3166_1_alpha_3": "BGD",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Bulgaria",
+        "iso_3166_1_alpha_2": "BG",
+        "iso_3166_1_alpha_3": "BGR",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Bahrain",
+        "iso_3166_1_alpha_2": "BH",
+        "iso_3166_1_alpha_3": "BHR",
+        "regex_pattern": "\\d{3,4}"
+    },
+    {
+        "name": "Bahamas",
+        "iso_3166_1_alpha_2": "BS",
+        "iso_3166_1_alpha_3": "BHS",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "iso_3166_1_alpha_2": "BA",
+        "iso_3166_1_alpha_3": "BIH",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "iso_3166_1_alpha_2": "BL",
+        "iso_3166_1_alpha_3": "BLM",
+        "regex_pattern": "97133"
+    },
+    {
+        "name": "Belarus",
+        "iso_3166_1_alpha_2": "BY",
+        "iso_3166_1_alpha_3": "BLR",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Belize",
+        "iso_3166_1_alpha_2": "BZ",
+        "iso_3166_1_alpha_3": "BLZ",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Bermuda",
+        "iso_3166_1_alpha_2": "BM",
+        "iso_3166_1_alpha_3": "BMU",
+        "regex_pattern": "[A-Za-z]{2}\\s([A-Za-z]{2}|\\d{2})"
+    },
+    {
+        "name": "Bolivia, Plurinational State of",
+        "iso_3166_1_alpha_2": "BO",
+        "iso_3166_1_alpha_3": "BOL",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Brazil",
+        "iso_3166_1_alpha_2": "BR",
+        "iso_3166_1_alpha_3": "BRA",
+        "regex_pattern": "\\d{5}-\\d{3}"
+    },
+    {
+        "name": "Barbados",
+        "iso_3166_1_alpha_2": "BB",
+        "iso_3166_1_alpha_3": "BRB",
+        "regex_pattern": "[Aa][Zz]\\d{5}"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "iso_3166_1_alpha_2": "BN",
+        "iso_3166_1_alpha_3": "BRN",
+        "regex_pattern": "[A-Za-z]{2}\\d{4}"
+    },
+    {
+        "name": "Bhutan",
+        "iso_3166_1_alpha_2": "BT",
+        "iso_3166_1_alpha_3": "BTN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Bouvet Island",
+        "iso_3166_1_alpha_2": "BV",
+        "iso_3166_1_alpha_3": "BVT",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Botswana",
+        "iso_3166_1_alpha_2": "BW",
+        "iso_3166_1_alpha_3": "BWA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Central African Republic",
+        "iso_3166_1_alpha_2": "CF",
+        "iso_3166_1_alpha_3": "CAF",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Canada",
+        "iso_3166_1_alpha_2": "CA",
+        "iso_3166_1_alpha_3": "CAN",
+        "regex_pattern": "([A-Za-z]\\d[A-Za-z])[-\\s]{1}(\\d[A-Za-z]\\d)"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "iso_3166_1_alpha_2": "CC",
+        "iso_3166_1_alpha_3": "CCK",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Switzerland",
+        "iso_3166_1_alpha_2": "CH",
+        "iso_3166_1_alpha_3": "CHE",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Chile",
+        "iso_3166_1_alpha_2": "CL",
+        "iso_3166_1_alpha_3": "CHL",
+        "regex_pattern": "\\d{7}\\s\\(\\d{3}-\\d{4}\\)"
+    },
+    {
+        "name": "China",
+        "iso_3166_1_alpha_2": "CN",
+        "iso_3166_1_alpha_3": "CHN",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "iso_3166_1_alpha_2": "CI",
+        "iso_3166_1_alpha_3": "CIV",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Cameroon",
+        "iso_3166_1_alpha_2": "CM",
+        "iso_3166_1_alpha_3": "CMR",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Congo, the Democratic Republic of the",
+        "iso_3166_1_alpha_2": "CD",
+        "iso_3166_1_alpha_3": "COD",
+        "regex_pattern": "[Cc][Dd]"
+    },
+    {
+        "name": "Congo",
+        "iso_3166_1_alpha_2": "CG",
+        "iso_3166_1_alpha_3": "COG",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Cook Islands",
+        "iso_3166_1_alpha_2": "CK",
+        "iso_3166_1_alpha_3": "COK",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Colombia",
+        "iso_3166_1_alpha_2": "CO",
+        "iso_3166_1_alpha_3": "COL",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Comoros",
+        "iso_3166_1_alpha_2": "KM",
+        "iso_3166_1_alpha_3": "COM",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Cabo Verde",
+        "iso_3166_1_alpha_2": "CV",
+        "iso_3166_1_alpha_3": "CPV",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Costa Rica",
+        "iso_3166_1_alpha_2": "CR",
+        "iso_3166_1_alpha_3": "CRI",
+        "regex_pattern": "\\d{4,5}"
+    },
+    {
+        "name": "Cuba",
+        "iso_3166_1_alpha_2": "CU",
+        "iso_3166_1_alpha_3": "CUB",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Curaçao",
+        "iso_3166_1_alpha_2": "CW",
+        "iso_3166_1_alpha_3": "CUW",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Christmas Island",
+        "iso_3166_1_alpha_2": "CX",
+        "iso_3166_1_alpha_3": "CXR",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Cayman Islands",
+        "iso_3166_1_alpha_2": "KY",
+        "iso_3166_1_alpha_3": "CYM",
+        "regex_pattern": "[Kk][Yy]\\d[-\\s]{0,1}\\d{4}"
+    },
+    {
+        "name": "Cyprus",
+        "iso_3166_1_alpha_2": "CY",
+        "iso_3166_1_alpha_3": "CYP",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Czech Republic",
+        "iso_3166_1_alpha_2": "CZ",
+        "iso_3166_1_alpha_3": "CZE",
+        "regex_pattern": "\\d{5}\\s\\(\\d{3}\\s\\d{2}\\)"
+    },
+    {
+        "name": "Germany",
+        "iso_3166_1_alpha_2": "DE",
+        "iso_3166_1_alpha_3": "DEU",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Djibouti",
+        "iso_3166_1_alpha_2": "DJ",
+        "iso_3166_1_alpha_3": "DJI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Dominica",
+        "iso_3166_1_alpha_2": "DM",
+        "iso_3166_1_alpha_3": "DMA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Denmark",
+        "iso_3166_1_alpha_2": "DK",
+        "iso_3166_1_alpha_3": "DNK",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Dominican Republic",
+        "iso_3166_1_alpha_2": "DO",
+        "iso_3166_1_alpha_3": "DOM",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Algeria",
+        "iso_3166_1_alpha_2": "DZ",
+        "iso_3166_1_alpha_3": "DZA",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Ecuador",
+        "iso_3166_1_alpha_2": "EC",
+        "iso_3166_1_alpha_3": "ECU",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Egypt",
+        "iso_3166_1_alpha_2": "EG",
+        "iso_3166_1_alpha_3": "EGY",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Eritrea",
+        "iso_3166_1_alpha_2": "ER",
+        "iso_3166_1_alpha_3": "ERI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Western Sahara",
+        "iso_3166_1_alpha_2": "EH",
+        "iso_3166_1_alpha_3": "ESH",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Spain",
+        "iso_3166_1_alpha_2": "ES",
+        "iso_3166_1_alpha_3": "ESP",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Estonia",
+        "iso_3166_1_alpha_2": "EE",
+        "iso_3166_1_alpha_3": "EST",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Ethiopia",
+        "iso_3166_1_alpha_2": "ET",
+        "iso_3166_1_alpha_3": "ETH",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Finland",
+        "iso_3166_1_alpha_2": "FI",
+        "iso_3166_1_alpha_3": "FIN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Fiji",
+        "iso_3166_1_alpha_2": "FJ",
+        "iso_3166_1_alpha_3": "FJI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "iso_3166_1_alpha_2": "FK",
+        "iso_3166_1_alpha_3": "FLK",
+        "regex_pattern": "[Ff][Ii][Qq]{2}\\s{0,1}[1][Zz]{2}"
+    },
+    {
+        "name": "France",
+        "iso_3166_1_alpha_2": "FR",
+        "iso_3166_1_alpha_3": "FRA",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Faroe Islands",
+        "iso_3166_1_alpha_2": "FO",
+        "iso_3166_1_alpha_3": "FRO",
+        "regex_pattern": "\\d{3}"
+    },
+    {
+        "name": "Micronesia, Federated States of",
+        "iso_3166_1_alpha_2": "FM",
+        "iso_3166_1_alpha_3": "FSM",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Gabon",
+        "iso_3166_1_alpha_2": "GA",
+        "iso_3166_1_alpha_3": "GAB",
+        "regex_pattern": "\\d{2}\\s[a-zA-Z-_ ]\\s\\d{2}"
+    },
+    {
+        "name": "United Kingdom",
+        "iso_3166_1_alpha_2": "GB",
+        "iso_3166_1_alpha_3": "GBR",
+        "regex_pattern": "([A-PR-UWYZ0-9][A-HK-Y0-9][AEHMNPRTVXY0-9]?[ABEHMNPRVWXY0-9]? {1,2}[0-9][ABD-HJLN-UW-Z]{2}|GIR 0AA)"
+    },
+    {
+        "name": "Georgia",
+        "iso_3166_1_alpha_2": "GE",
+        "iso_3166_1_alpha_3": "GEO",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Guernsey",
+        "iso_3166_1_alpha_2": "GG",
+        "iso_3166_1_alpha_3": "GGY",
+        "regex_pattern": "[A-Za-z]{2}\\d\\s{0,1}\\d[A-Za-z]{2}"
+    },
+    {
+        "name": "Ghana",
+        "iso_3166_1_alpha_2": "GH",
+        "iso_3166_1_alpha_3": "GHA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Gibraltar",
+        "iso_3166_1_alpha_2": "GI",
+        "iso_3166_1_alpha_3": "GIB",
+        "regex_pattern": "[Gg][Xx][1]{2}\\s{0,1}[1][Aa]{2}"
+    },
+    {
+        "name": "Guinea",
+        "iso_3166_1_alpha_2": "GN",
+        "iso_3166_1_alpha_3": "GIN",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Guadeloupe",
+        "iso_3166_1_alpha_2": "GP",
+        "iso_3166_1_alpha_3": "GLP",
+        "regex_pattern": "971\\d{2}"
+    },
+    {
+        "name": "Gambia",
+        "iso_3166_1_alpha_2": "GM",
+        "iso_3166_1_alpha_3": "GMB",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Guinea-Bissau",
+        "iso_3166_1_alpha_2": "GW",
+        "iso_3166_1_alpha_3": "GNB",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "iso_3166_1_alpha_2": "GQ",
+        "iso_3166_1_alpha_3": "GNQ",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Greece",
+        "iso_3166_1_alpha_2": "GR",
+        "iso_3166_1_alpha_3": "GRC",
+        "regex_pattern": "\\d{3}\\s{0,1}\\d{2}"
+    },
+    {
+        "name": "Grenada",
+        "iso_3166_1_alpha_2": "GD",
+        "iso_3166_1_alpha_3": "GRD",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Greenland",
+        "iso_3166_1_alpha_2": "GL",
+        "iso_3166_1_alpha_3": "GRL",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Guatemala",
+        "iso_3166_1_alpha_2": "GT",
+        "iso_3166_1_alpha_3": "GTM",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "French Guiana",
+        "iso_3166_1_alpha_2": "GF",
+        "iso_3166_1_alpha_3": "GUF",
+        "regex_pattern": "973\\d{2}"
+    },
+    {
+        "name": "Guam",
+        "iso_3166_1_alpha_2": "GU",
+        "iso_3166_1_alpha_3": "GUM",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Guyana",
+        "iso_3166_1_alpha_2": "GY",
+        "iso_3166_1_alpha_3": "GUY",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Hong Kong",
+        "iso_3166_1_alpha_2": "HK",
+        "iso_3166_1_alpha_3": "HKG",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "iso_3166_1_alpha_2": "HM",
+        "iso_3166_1_alpha_3": "HMD",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Honduras",
+        "iso_3166_1_alpha_2": "HN",
+        "iso_3166_1_alpha_3": "HND",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Croatia",
+        "iso_3166_1_alpha_2": "HR",
+        "iso_3166_1_alpha_3": "HRV",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Haiti",
+        "iso_3166_1_alpha_2": "HT",
+        "iso_3166_1_alpha_3": "HTI",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Hungary",
+        "iso_3166_1_alpha_2": "HU",
+        "iso_3166_1_alpha_3": "HUN",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Indonesia",
+        "iso_3166_1_alpha_2": "ID",
+        "iso_3166_1_alpha_3": "IDN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Isle of Man",
+        "iso_3166_1_alpha_2": "IM",
+        "iso_3166_1_alpha_3": "IMN",
+        "regex_pattern": "[Ii[Mm]\\d{1,2}\\s\\d[A-Z]{2}"
+    },
+    {
+        "name": "India",
+        "iso_3166_1_alpha_2": "IN",
+        "iso_3166_1_alpha_3": "IND",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "iso_3166_1_alpha_2": "IO",
+        "iso_3166_1_alpha_3": "IOT",
+        "regex_pattern": "[Bb]{2}[Nn][Dd]\\s{0,1}[1][Zz]{2}"
+    },
+    {
+        "name": "Ireland",
+        "iso_3166_1_alpha_2": "IE",
+        "iso_3166_1_alpha_3": "IRL",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Iran, Islamic Republic of",
+        "iso_3166_1_alpha_2": "IR",
+        "iso_3166_1_alpha_3": "IRN",
+        "regex_pattern": "\\d{5}-\\d{5}"
+    },
+    {
+        "name": "Iraq",
+        "iso_3166_1_alpha_2": "IQ",
+        "iso_3166_1_alpha_3": "IRQ",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Iceland",
+        "iso_3166_1_alpha_2": "IS",
+        "iso_3166_1_alpha_3": "ISL",
+        "regex_pattern": "\\d{3}"
+    },
+    {
+        "name": "Israel",
+        "iso_3166_1_alpha_2": "IL",
+        "iso_3166_1_alpha_3": "ISR",
+        "regex_pattern": "\\d{7}"
+    },
+    {
+        "name": "Italy",
+        "iso_3166_1_alpha_2": "IT",
+        "iso_3166_1_alpha_3": "ITA",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Jamaica",
+        "iso_3166_1_alpha_2": "JM",
+        "iso_3166_1_alpha_3": "JAM",
+        "regex_pattern": "(JM)[A-Z]{3}\\d{2}"
+    },
+    {
+        "name": "Jersey",
+        "iso_3166_1_alpha_2": "JE",
+        "iso_3166_1_alpha_3": "JEY",
+        "regex_pattern": "[Jj][Ee]\\d\\s{0,1}\\d[A-Za-z]{2}"
+    },
+    {
+        "name": "Jordan",
+        "iso_3166_1_alpha_2": "JO",
+        "iso_3166_1_alpha_3": "JOR",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Japan",
+        "iso_3166_1_alpha_2": "JP",
+        "iso_3166_1_alpha_3": "JPN",
+        "regex_pattern": "\\d{3}-\\d{4}"
+    },
+    {
+        "name": "Kazakhstan",
+        "iso_3166_1_alpha_2": "KZ",
+        "iso_3166_1_alpha_3": "KAZ",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Kenya",
+        "iso_3166_1_alpha_2": "KE",
+        "iso_3166_1_alpha_3": "KEN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "iso_3166_1_alpha_2": "KG",
+        "iso_3166_1_alpha_3": "KGZ",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Cambodia",
+        "iso_3166_1_alpha_2": "KH",
+        "iso_3166_1_alpha_3": "KHM",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Kiribati",
+        "iso_3166_1_alpha_2": "KI",
+        "iso_3166_1_alpha_3": "KIR",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "iso_3166_1_alpha_2": "KN",
+        "iso_3166_1_alpha_3": "KNA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Korea, Republic of",
+        "iso_3166_1_alpha_2": "KR",
+        "iso_3166_1_alpha_3": "KOR",
+        "regex_pattern": "\\d{3}-\\d{3}|\\d{5}"
+    },
+    {
+        "name": "Kuwait",
+        "iso_3166_1_alpha_2": "KW",
+        "iso_3166_1_alpha_3": "KWT",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "iso_3166_1_alpha_2": "LA",
+        "iso_3166_1_alpha_3": "LAO",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Lebanon",
+        "iso_3166_1_alpha_2": "LB",
+        "iso_3166_1_alpha_3": "LBN",
+        "regex_pattern": "\\d{4}\\s{0,1}\\d{4}"
+    },
+    {
+        "name": "Liberia",
+        "iso_3166_1_alpha_2": "LR",
+        "iso_3166_1_alpha_3": "LBR",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Libya",
+        "iso_3166_1_alpha_2": "LY",
+        "iso_3166_1_alpha_3": "LBY",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Saint Lucia",
+        "iso_3166_1_alpha_2": "LC",
+        "iso_3166_1_alpha_3": "LCA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Liechtenstein",
+        "iso_3166_1_alpha_2": "LI",
+        "iso_3166_1_alpha_3": "LIE",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Sri Lanka",
+        "iso_3166_1_alpha_2": "LK",
+        "iso_3166_1_alpha_3": "LKA",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Lesotho",
+        "iso_3166_1_alpha_2": "LS",
+        "iso_3166_1_alpha_3": "LSO",
+        "regex_pattern": "\\d{3}"
+    },
+    {
+        "name": "Lithuania",
+        "iso_3166_1_alpha_2": "LT",
+        "iso_3166_1_alpha_3": "LTU",
+        "regex_pattern": "[Ll][Tt][- ]{0,1}\\d{5}"
+    },
+    {
+        "name": "Luxembourg",
+        "iso_3166_1_alpha_2": "LU",
+        "iso_3166_1_alpha_3": "LUX",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Latvia",
+        "iso_3166_1_alpha_2": "LV",
+        "iso_3166_1_alpha_3": "LVA",
+        "regex_pattern": "[Ll][Vv][- ]{0,1}\\d{4}"
+    },
+    {
+        "name": "Macao",
+        "iso_3166_1_alpha_2": "MO",
+        "iso_3166_1_alpha_3": "MAC",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "iso_3166_1_alpha_2": "MF",
+        "iso_3166_1_alpha_3": "MAF",
+        "regex_pattern": "97150"
+    },
+    {
+        "name": "Morocco",
+        "iso_3166_1_alpha_2": "MA",
+        "iso_3166_1_alpha_3": "MAR",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Monaco",
+        "iso_3166_1_alpha_2": "MC",
+        "iso_3166_1_alpha_3": "MCO",
+        "regex_pattern": "980\\d{2}"
+    },
+    {
+        "name": "Moldova, Republic of",
+        "iso_3166_1_alpha_2": "MD",
+        "iso_3166_1_alpha_3": "MDA",
+        "regex_pattern": "[Mm][Dd][- ]{0,1}\\d{4}"
+    },
+    {
+        "name": "Madagascar",
+        "iso_3166_1_alpha_2": "MG",
+        "iso_3166_1_alpha_3": "MDG",
+        "regex_pattern": "\\d{3}"
+    },
+    {
+        "name": "Maldives",
+        "iso_3166_1_alpha_2": "MV",
+        "iso_3166_1_alpha_3": "MDV",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Mexico",
+        "iso_3166_1_alpha_2": "MX",
+        "iso_3166_1_alpha_3": "MEX",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Marshall Islands",
+        "iso_3166_1_alpha_2": "MH",
+        "iso_3166_1_alpha_3": "MHL",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Macedonia, the former Yugoslav Republic of",
+        "iso_3166_1_alpha_2": "MK",
+        "iso_3166_1_alpha_3": "MKD",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Mali",
+        "iso_3166_1_alpha_2": "ML",
+        "iso_3166_1_alpha_3": "MLI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Malta",
+        "iso_3166_1_alpha_2": "MT",
+        "iso_3166_1_alpha_3": "MLT",
+        "regex_pattern": "[A-Za-z]{3}\\s?\\d{2,4}"
+    },
+    {
+        "name": "Myanmar",
+        "iso_3166_1_alpha_2": "MM",
+        "iso_3166_1_alpha_3": "MMR",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Montenegro",
+        "iso_3166_1_alpha_2": "ME",
+        "iso_3166_1_alpha_3": "MNE",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Mongolia",
+        "iso_3166_1_alpha_2": "MN",
+        "iso_3166_1_alpha_3": "MNG",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "iso_3166_1_alpha_2": "MP",
+        "iso_3166_1_alpha_3": "MNP",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Mozambique",
+        "iso_3166_1_alpha_2": "MZ",
+        "iso_3166_1_alpha_3": "MOZ",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Mauritania",
+        "iso_3166_1_alpha_2": "MR",
+        "iso_3166_1_alpha_3": "MRT",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Montserrat",
+        "iso_3166_1_alpha_2": "MS",
+        "iso_3166_1_alpha_3": "MSR",
+        "regex_pattern": "[Mm][Ss][Rr]\\s{0,1}\\d{4}"
+    },
+    {
+        "name": "Martinique",
+        "iso_3166_1_alpha_2": "MQ",
+        "iso_3166_1_alpha_3": "MTQ",
+        "regex_pattern": "972\\d{2}"
+    },
+    {
+        "name": "Mauritius",
+        "iso_3166_1_alpha_2": "MU",
+        "iso_3166_1_alpha_3": "MUS",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Malawi",
+        "iso_3166_1_alpha_2": "MW",
+        "iso_3166_1_alpha_3": "MWI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Malaysia",
+        "iso_3166_1_alpha_2": "MY",
+        "iso_3166_1_alpha_3": "MYS",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Mayotte",
+        "iso_3166_1_alpha_2": "YT",
+        "iso_3166_1_alpha_3": "MYT",
+        "regex_pattern": "976\\d{2}"
+    },
+    {
+        "name": "Namibia",
+        "iso_3166_1_alpha_2": "NA",
+        "iso_3166_1_alpha_3": "NAM",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "New Caledonia",
+        "iso_3166_1_alpha_2": "NC",
+        "iso_3166_1_alpha_3": "NCL",
+        "regex_pattern": "988\\d{2}"
+    },
+    {
+        "name": "Niger",
+        "iso_3166_1_alpha_2": "NE",
+        "iso_3166_1_alpha_3": "NER",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Norfolk Island",
+        "iso_3166_1_alpha_2": "NF",
+        "iso_3166_1_alpha_3": "NFK",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Nigeria",
+        "iso_3166_1_alpha_2": "NG",
+        "iso_3166_1_alpha_3": "NGA",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Nicaragua",
+        "iso_3166_1_alpha_2": "NI",
+        "iso_3166_1_alpha_3": "NIC",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Niue",
+        "iso_3166_1_alpha_2": "NU",
+        "iso_3166_1_alpha_3": "NIU",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Netherlands",
+        "iso_3166_1_alpha_2": "NL",
+        "iso_3166_1_alpha_3": "NLD",
+        "regex_pattern": "\\d{4}\\s{0,1}[A-Za-z]{2}"
+    },
+    {
+        "name": "Norway",
+        "iso_3166_1_alpha_2": "NO",
+        "iso_3166_1_alpha_3": "NOR",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Nepal",
+        "iso_3166_1_alpha_2": "NP",
+        "iso_3166_1_alpha_3": "NPL",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Nauru",
+        "iso_3166_1_alpha_2": "NR",
+        "iso_3166_1_alpha_3": "NRU",
+        "regex_pattern": ""
+    },
+    {
+        "name": "New Zealand",
+        "iso_3166_1_alpha_2": "NZ",
+        "iso_3166_1_alpha_3": "NZL",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Oman",
+        "iso_3166_1_alpha_2": "OM",
+        "iso_3166_1_alpha_3": "OMN",
+        "regex_pattern": "\\d{3}"
+    },
+    {
+        "name": "Pakistan",
+        "iso_3166_1_alpha_2": "PK",
+        "iso_3166_1_alpha_3": "PAK",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Panama",
+        "iso_3166_1_alpha_2": "PA",
+        "iso_3166_1_alpha_3": "PAN",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Pitcairn",
+        "iso_3166_1_alpha_2": "PN",
+        "iso_3166_1_alpha_3": "PCN",
+        "regex_pattern": "[Pp][Cc][Rr][Nn]\\s{0,1}[1][Zz]{2}"
+    },
+    {
+        "name": "Peru",
+        "iso_3166_1_alpha_2": "PE",
+        "iso_3166_1_alpha_3": "PER",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Philippines",
+        "iso_3166_1_alpha_2": "PH",
+        "iso_3166_1_alpha_3": "PHL",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Palau",
+        "iso_3166_1_alpha_2": "PW",
+        "iso_3166_1_alpha_3": "PLW",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Papua New Guinea",
+        "iso_3166_1_alpha_2": "PG",
+        "iso_3166_1_alpha_3": "PNG",
+        "regex_pattern": "\\d{3}"
+    },
+    {
+        "name": "Poland",
+        "iso_3166_1_alpha_2": "PL",
+        "iso_3166_1_alpha_3": "POL",
+        "regex_pattern": "\\d{2}[- ]{0,1}\\d{3}"
+    },
+    {
+        "name": "Puerto Rico",
+        "iso_3166_1_alpha_2": "PR",
+        "iso_3166_1_alpha_3": "PRI",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Korea, Democratic People's Republic of",
+        "iso_3166_1_alpha_2": "KP",
+        "iso_3166_1_alpha_3": "PRK",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Portugal",
+        "iso_3166_1_alpha_2": "PT",
+        "iso_3166_1_alpha_3": "PRT",
+        "regex_pattern": "\\d{4}[- ]{0,1}\\d{3}"
+    },
+    {
+        "name": "Paraguay",
+        "iso_3166_1_alpha_2": "PY",
+        "iso_3166_1_alpha_3": "PRY",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Palestine, State of",
+        "iso_3166_1_alpha_2": "PS",
+        "iso_3166_1_alpha_3": "PSE",
+        "regex_pattern": ""
+    },
+    {
+        "name": "French Polynesia",
+        "iso_3166_1_alpha_2": "PF",
+        "iso_3166_1_alpha_3": "PYF",
+        "regex_pattern": "987\\d{2}"
+    },
+    {
+        "name": "Qatar",
+        "iso_3166_1_alpha_2": "QA",
+        "iso_3166_1_alpha_3": "QAT",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Réunion",
+        "iso_3166_1_alpha_2": "RE",
+        "iso_3166_1_alpha_3": "REU",
+        "regex_pattern": "974\\d{2}"
+    },
+    {
+        "name": "Romania",
+        "iso_3166_1_alpha_2": "RO",
+        "iso_3166_1_alpha_3": "ROU",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Russian Federation",
+        "iso_3166_1_alpha_2": "RU",
+        "iso_3166_1_alpha_3": "RUS",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Rwanda",
+        "iso_3166_1_alpha_2": "RW",
+        "iso_3166_1_alpha_3": "RWA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Saudi Arabia",
+        "iso_3166_1_alpha_2": "SA",
+        "iso_3166_1_alpha_3": "SAU",
+        "regex_pattern": "\\d{5}(-{1}\\d{4})?"
+    },
+    {
+        "name": "Sudan",
+        "iso_3166_1_alpha_2": "SD",
+        "iso_3166_1_alpha_3": "SDN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Senegal",
+        "iso_3166_1_alpha_2": "SN",
+        "iso_3166_1_alpha_3": "SEN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Singapore",
+        "iso_3166_1_alpha_2": "SG",
+        "iso_3166_1_alpha_3": "SGP",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "iso_3166_1_alpha_2": "GS",
+        "iso_3166_1_alpha_3": "SGS",
+        "regex_pattern": "[Ss][Ii][Qq]{2}\\s{0,1}[1][Zz]{2}"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "iso_3166_1_alpha_2": "SH",
+        "iso_3166_1_alpha_3": "SHN",
+        "regex_pattern": "[Tt][Dd][Cc][Uu]\\s{0,1}[1][Zz]{2}"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "iso_3166_1_alpha_2": "SJ",
+        "iso_3166_1_alpha_3": "SJM",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Solomon Islands",
+        "iso_3166_1_alpha_2": "SB",
+        "iso_3166_1_alpha_3": "SLB",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Sierra Leone",
+        "iso_3166_1_alpha_2": "SL",
+        "iso_3166_1_alpha_3": "SLE",
+        "regex_pattern": ""
+    },
+    {
+        "name": "El Salvador",
+        "iso_3166_1_alpha_2": "SV",
+        "iso_3166_1_alpha_3": "SLV",
+        "regex_pattern": "1101"
+    },
+    {
+        "name": "San Marino",
+        "iso_3166_1_alpha_2": "SM",
+        "iso_3166_1_alpha_3": "SMR",
+        "regex_pattern": "4789\\d"
+    },
+    {
+        "name": "Somalia",
+        "iso_3166_1_alpha_2": "SO",
+        "iso_3166_1_alpha_3": "SOM",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "iso_3166_1_alpha_2": "PM",
+        "iso_3166_1_alpha_3": "SPM",
+        "regex_pattern": "97500"
+    },
+    {
+        "name": "Serbia",
+        "iso_3166_1_alpha_2": "RS",
+        "iso_3166_1_alpha_3": "SRB",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "South Sudan",
+        "iso_3166_1_alpha_2": "SS",
+        "iso_3166_1_alpha_3": "SSD",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "iso_3166_1_alpha_2": "ST",
+        "iso_3166_1_alpha_3": "STP",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Suriname",
+        "iso_3166_1_alpha_2": "SR",
+        "iso_3166_1_alpha_3": "SUR",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Slovakia",
+        "iso_3166_1_alpha_2": "SK",
+        "iso_3166_1_alpha_3": "SVK",
+        "regex_pattern": "\\d{5}\\s\\(\\d{3}\\s\\d{2}\\)"
+    },
+    {
+        "name": "Slovenia",
+        "iso_3166_1_alpha_2": "SI",
+        "iso_3166_1_alpha_3": "SVN",
+        "regex_pattern": "([Ss][Ii][- ]{0,1}){0,1}\\d{4}"
+    },
+    {
+        "name": "Sweden",
+        "iso_3166_1_alpha_2": "SE",
+        "iso_3166_1_alpha_3": "SWE",
+        "regex_pattern": "\\d{5}\\s\\(\\d{3}\\s\\d{2}\\)"
+    },
+    {
+        "name": "Swaziland",
+        "iso_3166_1_alpha_2": "SZ",
+        "iso_3166_1_alpha_3": "SWZ",
+        "regex_pattern": "[A-Za-z]\\d{3}"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "iso_3166_1_alpha_2": "SX",
+        "iso_3166_1_alpha_3": "SXM",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Seychelles",
+        "iso_3166_1_alpha_2": "SC",
+        "iso_3166_1_alpha_3": "SYC",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "iso_3166_1_alpha_2": "SY",
+        "iso_3166_1_alpha_3": "SYR",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "iso_3166_1_alpha_2": "TC",
+        "iso_3166_1_alpha_3": "TCA",
+        "regex_pattern": "[Tt][Kk][Cc][Aa]\\s{0,1}[1][Zz]{2}"
+    },
+    {
+        "name": "Chad",
+        "iso_3166_1_alpha_2": "TD",
+        "iso_3166_1_alpha_3": "TCD",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Togo",
+        "iso_3166_1_alpha_2": "TG",
+        "iso_3166_1_alpha_3": "TGO",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Thailand",
+        "iso_3166_1_alpha_2": "TH",
+        "iso_3166_1_alpha_3": "THA",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Tajikistan",
+        "iso_3166_1_alpha_2": "TJ",
+        "iso_3166_1_alpha_3": "TJK",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Tokelau",
+        "iso_3166_1_alpha_2": "TK",
+        "iso_3166_1_alpha_3": "TKL",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Turkmenistan",
+        "iso_3166_1_alpha_2": "TM",
+        "iso_3166_1_alpha_3": "TKM",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Timor-Leste",
+        "iso_3166_1_alpha_2": "TL",
+        "iso_3166_1_alpha_3": "TLS",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Tonga",
+        "iso_3166_1_alpha_2": "TO",
+        "iso_3166_1_alpha_3": "TON",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "iso_3166_1_alpha_2": "TT",
+        "iso_3166_1_alpha_3": "TTO",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Tunisia",
+        "iso_3166_1_alpha_2": "TN",
+        "iso_3166_1_alpha_3": "TUN",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Turkey",
+        "iso_3166_1_alpha_2": "TR",
+        "iso_3166_1_alpha_3": "TUR",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Tuvalu",
+        "iso_3166_1_alpha_2": "TV",
+        "iso_3166_1_alpha_3": "TUV",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Taiwan, Province of China",
+        "iso_3166_1_alpha_2": "TW",
+        "iso_3166_1_alpha_3": "TWN",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "iso_3166_1_alpha_2": "TZ",
+        "iso_3166_1_alpha_3": "TZA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Uganda",
+        "iso_3166_1_alpha_2": "UG",
+        "iso_3166_1_alpha_3": "UGA",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Ukraine",
+        "iso_3166_1_alpha_2": "UA",
+        "iso_3166_1_alpha_3": "UKR",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "iso_3166_1_alpha_2": "UM",
+        "iso_3166_1_alpha_3": "UMI",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Uruguay",
+        "iso_3166_1_alpha_2": "UY",
+        "iso_3166_1_alpha_3": "URY",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "United States of America",
+        "iso_3166_1_alpha_2": "US",
+        "iso_3166_1_alpha_3": "USA",
+        "regex_pattern": "\\d{5}(?:[-\\s]\\d{4})?"
+    },
+    {
+        "name": "Uzbekistan",
+        "iso_3166_1_alpha_2": "UZ",
+        "iso_3166_1_alpha_3": "UZB",
+        "regex_pattern": "\\d{3} \\d{3}"
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "iso_3166_1_alpha_2": "VA",
+        "iso_3166_1_alpha_3": "VAT",
+        "regex_pattern": "120"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "iso_3166_1_alpha_2": "VC",
+        "iso_3166_1_alpha_3": "VCT",
+        "regex_pattern": "[Vv][Cc]\\d{4}"
+    },
+    {
+        "name": "Venezuela, Bolivarian Republic of",
+        "iso_3166_1_alpha_2": "VE",
+        "iso_3166_1_alpha_3": "VEN",
+        "regex_pattern": "\\d{4}(\\s[a-zA-Z]{1})?"
+    },
+    {
+        "name": "Virgin Islands, British",
+        "iso_3166_1_alpha_2": "VG",
+        "iso_3166_1_alpha_3": "VGB",
+        "regex_pattern": "[Vv][Gg]\\d{4}"
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "iso_3166_1_alpha_2": "VI",
+        "iso_3166_1_alpha_3": "VIR",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Viet Nam",
+        "iso_3166_1_alpha_2": "VN",
+        "iso_3166_1_alpha_3": "VNM",
+        "regex_pattern": "\\d{6}"
+    },
+    {
+        "name": "Vanuatu",
+        "iso_3166_1_alpha_2": "VU",
+        "iso_3166_1_alpha_3": "VUT",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Wallis and Futuna",
+        "iso_3166_1_alpha_2": "WF",
+        "iso_3166_1_alpha_3": "WLF",
+        "regex_pattern": "986\\d{2}"
+    },
+    {
+        "name": "Samoa",
+        "iso_3166_1_alpha_2": "WS",
+        "iso_3166_1_alpha_3": "WSM",
+        "regex_pattern": ""
+    },
+    {
+        "name": "Yemen",
+        "iso_3166_1_alpha_2": "YE",
+        "iso_3166_1_alpha_3": "YEM",
+        "regex_pattern": ""
+    },
+    {
+        "name": "South Africa",
+        "iso_3166_1_alpha_2": "ZA",
+        "iso_3166_1_alpha_3": "ZAF",
+        "regex_pattern": "\\d{4}"
+    },
+    {
+        "name": "Zambia",
+        "iso_3166_1_alpha_2": "ZM",
+        "iso_3166_1_alpha_3": "ZMB",
+        "regex_pattern": "\\d{5}"
+    },
+    {
+        "name": "Zimbabwe",
+        "iso_3166_1_alpha_2": "ZW",
+        "iso_3166_1_alpha_3": "ZWE",
+        "regex_pattern": ""
+    }
+]

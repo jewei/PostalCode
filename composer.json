@@ -1,0 +1,30 @@
+{
+    "name": "jewei/postal-codes",
+    "description": "Find or validates postal codes.",
+    "type": "library",
+    "keywords": ["postal code", "postcode", "zip code", "zipcode", "regex"],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jewei Mak",
+            "email": "jewei.mak@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Jewei\\PostalCode\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Jewei\\PostalCode\\Tests\\": "tests/"
+        }
+    }
+}
